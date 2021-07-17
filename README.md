@@ -14,7 +14,7 @@
 
 > **Due to the overuse of script, a bunch of APIs have been taken offline. It is okay if you do not receive all the messages.**
 
-
+-CYSEC INTELLIGENCE 
 - The application requires active internet connection to contact the APIs
 - You would not be charged for any SMS/calls dispatched as a consequence of this script
 - For best performance, use single thread with considerable delay time
