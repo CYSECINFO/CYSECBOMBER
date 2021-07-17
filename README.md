@@ -1,13 +1,13 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/TheSpeedX/TBomb"><img src="https://i.ibb.co/F4HBKqm/TBomb.png" alt="TBomb"></a>
+ 
   <br>
-  TBomb v2.1b
+  CYSEC INTELLIGENCE
   <br>
 </h1>
 
 
-<p align="center">A free and open-source SMS/Call bombing application</p>
+
 
 ## NOTE:
 
@@ -108,8 +108,8 @@ To use the application, type in the following commands in GNU/Linux terminal.
 ```shell script
 sudo apt install git
 git clone https://github.com/TheSpeedX/TBomb.git
-cd TBomb
-bash TBomb.sh
+cd CYSEC.sh
+bash CYSEC.sh
 ```
 
 #### For MacOS
@@ -129,7 +129,7 @@ brew install git
 brew install python3
 sudo easy_install pip
 sudo pip install --upgrade pip
-git clone https://github.com/TheSpeedX/TBomb.git
+git 
 cd TBomb
 bash TBomb.sh
 ```
