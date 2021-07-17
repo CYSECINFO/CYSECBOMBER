@@ -71,7 +71,7 @@ tbomb
 
 Git installation methods are not universal and are likely to differ between distributions so installing Git as per the given instructions below may not work. Please check out how to install Git for your Linux distribution [here](https://git-scm.com/). Commands below provide instructions for Debian-based systems.
 
->Running `TBomb.sh` as sudo miscofigures files ownership. It is recommended not to run it as sudo
+>Running `CYSECB1B.sh` as sudo miscofigures files ownership. It is recommended not to run it as sudo
 
 Run these commands to clone and run TBomb.
 
@@ -81,9 +81,9 @@ To use the bomber type the following commands in Termux:
 ```shell script
 pkg install git -y 
 pkg install python -y 
-git clone https://github.com/TheSpeedX/TBomb.git
-cd TBomb
-./TBomb.sh
+git clone https://github.com/TheSpeedX/CYSECB1B
+cd CYSECB1B
+./CYSECB1B.sh
 ```
 
 #### For iSH
@@ -96,10 +96,10 @@ apk add py3-pip
 apk add ruby
 gem install toilet
 git clone https://github.com/TheSpeedX/TBomb.git
-cd TBomb
+cd CYSECB1B
 pip3 install -r requirements.txt
-chmod +x TBomb.sh
-./TBomb.sh
+chmod +x CYSECB1B.sh
+./CYSECB1B.sh
 ```
 
 #### For Debian-based GNU/Linux distributions
@@ -107,9 +107,9 @@ chmod +x TBomb.sh
 To use the application, type in the following commands in GNU/Linux terminal.
 ```shell script
 sudo apt install git
-git clone https://github.com/TheSpeedX/TBomb.git
-cd CYSEC.sh
-bash CYSEC.sh
+git clone https://github.com/TheSpeedX/CYSECB1B
+cd CYSECB1B.sh
+bash CYSECB1B.sh
 ```
 
 #### For MacOS
@@ -130,8 +130,8 @@ brew install python3
 sudo easy_install pip
 sudo pip install --upgrade pip
 git 
-cd TBomb
-bash TBomb.sh
+cd CYSECB1B
+bash CYSECB1B.sh
 ```
 
 
