@@ -52,23 +52,14 @@ def clr():
 
 def bann_text():
     clr()
-    logo = """
-   ████████ █████                 ██
-   ▒▒▒██▒▒▒ ██▒▒██                ██
-      ██    ██  ██        ██   ██ ██
-      ██    █████▒  ████  ███ ███ █████
-      ██    ██▒▒██ ██  ██ ██▒█▒██ ██▒▒██
-      ██    ██  ██ ██  ██ ██ ▒ ██ ██  ██
-      ██    █████▒ ▒████▒ ██   ██ █████▒
-      ▒▒    ▒▒▒▒▒   ▒▒▒▒  ▒▒   ▒▒ ▒▒▒▒▒
-                                         """
+    logo = " CYSEC INTELLIGENCE  "
     if ASCII_MODE:
         logo = ""
     version = "Version: "+__VERSION__
-    contributors = "Contributors: "+" ".join(__CONTRIBUTORS__)
+    contributors = "Contributors: "+" ".join("CYSEC INTELLIGENCE GROUP")
     print(random.choice(ALL_COLORS) + logo + RESET_ALL)
     mesgdcrt.SuccessMessage(version)
-    mesgdcrt.SectionMessage(contributors)
+    mesgdcrt.SectionMessage("CYSEC INTELLIGENCE")
     print()
 
 
@@ -383,7 +374,7 @@ RESET_ALL = Style.RESET_ALL
 ASCII_MODE = False
 DEBUG_MODE = False
 
-description = """TBomb - Your Friendly Spammer Application
+description = """CYSEC INTELLIGENCE GROUP
 
 TBomb can be used for many purposes which incudes -
 \t Exposing the vulnerable APIs over Internet
